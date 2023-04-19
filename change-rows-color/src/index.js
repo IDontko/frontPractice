@@ -7,5 +7,3 @@ $(function() {
     $('li:odd').css('background-color', 'red')
     $('li:even').css('background-color', 'cyan')
 })
-
-1231
